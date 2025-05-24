@@ -21,10 +21,6 @@
 - **Library Management with AI** — Smart, searchable, and slick
 - **AI + IoT Threat Detection System** — Real-time sensors + AI model alerts
 
-
-## 📈 Currently Learning
-
-
 ## 📫 Reach Me At
 
 - Email: [hibaanwer0702@gmail.com]
