@@ -10,11 +10,30 @@
 - 🧠 Deep Learning enthusiast preparing for top-tier tech interviews
 - 📚 Former bio science student turned tech explorer — from cells to sensors
   
-
 ## 🔧 Skills & Tools
 
-`Python` | `Machine Learning` | `YOLOv8` | `Flask` | `Streamlit` | `SQL` | `Power BI`  
-`Computer Vision` | `Deep Learning` | `EDA` | `Gradio` | `Pandas` | `NumPy` | `Seaborn`
+### 🖥️ Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🚀 Frameworks & Deployment  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-5A67D8?style=for-the-badge&logoColor=white)  
+
+### 📊 Data Viz & Analytics  
+![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)  
+
+
+### 🛠️ Libraries & Tools  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
 
 ## 🚀 Projects
 - **Library Management with AI** — Smart, searchable, and slick
