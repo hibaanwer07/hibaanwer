@@ -4,13 +4,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 AI & Data Engineering Diploma Holder | NSDC Certified
+- 🎓 AI & Data Engineering Diploma Holder 
 - 💡 Curious mind with a traditional heart and a future-focused soul
 - 🤖 Projects in AI, ML, Computer Vision, and IoT ( Threat Detection, Library management system, and more)
 - 🧠 Deep Learning enthusiast preparing for top-tier tech interviews
 - 📚 Former bio science student turned tech explorer — from cells to sensors
-- 💬 Loves teaching English, sharing knowledge, and having real conversations
-- 🎶 Sings when coding breaks her heart (which is often)
+  
 
 ## 🔧 Skills & Tools
 
